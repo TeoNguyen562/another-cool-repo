@@ -1,6 +1,6 @@
-# Homework - Hello World Submission
+# Homework - Git Practice
 
-My submission for Computer Science Data Structures, Section 07, Homework - Hello World
+My submission for Computer Science Data Structures, Section 07, Homework - Git Practice
 
 # My Information
 * Name: Teo Nguyen
