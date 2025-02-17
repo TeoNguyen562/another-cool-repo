@@ -15,6 +15,11 @@ Damn
 
 I should probably go to office hours for once.
 
+
+# Sim Racing video
+
+Here's a video of me sim racing idk i'm trying to satisfy the 10 commits quota https://youtu.be/01AAlGoZTMQ
+
 # Academic Honesty
 
 I promise not to forget that all future assignments may be heavily penalized for failure to commit frequently as I do my work.
