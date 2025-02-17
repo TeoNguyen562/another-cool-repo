@@ -14,3 +14,7 @@ No Thoughts. Head Empty. I've been just studying throw exceptions and raw pointe
 Damn
 
 I should probably go to office hours for once.
+
+# Academic Honesty
+
+I promise not to forget that all future assignments may be heavily penalized for failure to commit frequently as I do my work.
