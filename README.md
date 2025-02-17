@@ -1,6 +1,6 @@
-# Homework - Git Practice
+# Homework 1 - Git Practice
 
-My submission for Computer Science Data Structures, Section 07, Homework - Git Practice
+My submission for Computer Science Data Structures, Section 07, Homework 1 - Git Practice
 
 # My Information
 * Name: Teo Nguyen
