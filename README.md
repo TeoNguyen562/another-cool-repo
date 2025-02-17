@@ -10,3 +10,7 @@ My submission for Computer Science Data Structures, Section 07, Homework - Git P
 # My Thoughts
 
 No Thoughts. Head Empty. I've been just studying throw exceptions and raw pointers and vectors again because honestly I still don't understand this. Also GO BIRDS!
+
+Damn
+
+I should probably go to office hours for once.
